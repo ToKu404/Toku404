@@ -1,7 +1,7 @@
 ### Hi 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toku404&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toku404&hide=css,html,jupyter%20notebook&langs_count=7&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toku404&hide=css,html,jupyter,php%20notebook&langs_count=7&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
