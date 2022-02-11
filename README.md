@@ -23,7 +23,7 @@ Hi! I'm Ikhsan a.k.a ToKu404
 <a href="https://www.youtube.com/channel/UCkfY9FNGzKoNfoqMBa_IHZw">
   <img align="left" alt="toku's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/phantom26isn">
+<a href="https://www.hackerrank.com/toku404">
   <img align="left" alt="toku's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <br><br>
