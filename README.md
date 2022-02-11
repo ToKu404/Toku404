@@ -3,7 +3,7 @@ I am a third-year information systems student at Hasanuddin University. I have d
 
 Find me on :
 
-<a href="instagram.com/ikh_.san"><img src="https://emojik.com/platform/instagram.svg" alt="Instagram Emojis" class="class"></a>
+<a href="https://www.instagram.com/ikh_.san"><img src="https://emojik.com/platform/instagram.svg" alt="Instagram Emojis" class="class"></a>
 <a href="https://www.linkedin.com/in/muh-ikhsan-9aa462199/"><img src="https://emojik.com/platform/linkedin.svg" alt="Linkedln Emojis" class="class"></a> 
 
 
