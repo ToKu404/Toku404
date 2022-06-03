@@ -11,9 +11,6 @@ Hi! I'm Ikhsan a.k.a ToKu404
 <a href="https://www.linkedin.com/in/toku404/">
   <img align="left" alt="toku's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/toku404">
-  <img align="left" alt="toku's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
 <a href="https://www.instagram.com/ikh_.san/">
   <img align="left" alt="toku's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
