@@ -4,7 +4,7 @@ Hi! I'm Ikhsan a.k.a ToKu404
 <br/>
 
 <p>
-  I am a computer science student at <a href="https://unhas.ac.id/v2/">Hasanuddin University</a>. I have developed my skills in IT and programming, I have a particular interest in mobile application development with flutter and machine learning system development. I understand the use of programming languages such as Python, Java, and Dart. I also have a bit of a knack for UI design to build my apps. I feel challenged and excited to learn new things.
+I am an information system student from Hasanuddin University. I specialize in studying multiplatform application development using Flutter. In addition I have basic UI/UX Design skill and I am also interested in Artificial Intelligence. Willing to learn new technology and collaboration with each other with friendliness and respectfulness.
 </p>
 
 <br><br>
