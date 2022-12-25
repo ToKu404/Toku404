@@ -17,4 +17,7 @@ I am an information system student from Hasanuddin University. I specialize in s
 <a href="https://www.hackerrank.com/toku404">
   <img align="left" alt="toku's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
+<a href="https://www.kaggle.com/toku404">
+  <img align="left" alt="toku's kaggle" width="100px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>
 <br><br>
