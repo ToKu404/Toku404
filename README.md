@@ -1,10 +1,10 @@
 <h2>
-Hi! I'm Ikhsan a.k.a ToKu404
+ToKu404 | Mobile Developer
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <br/>
 
 <p>
-I am an information system student from Hasanuddin University. I specialize in studying multiplatform application development using Flutter. In addition I have basic UI/UX Design skill and I am also interested in Artificial Intelligence. Willing to learn new technology and collaboration with each other with friendliness and respectfulness.
+Software Developer based in Makassar, Indonesia. I specialize in building mobile applications using Flutter. My true passion is building software, but my wallet definitely prefers it when I do it for a living. LMAO. Lately, though, blockchain and web3 have been catching my eye...   Maybe it's time to give my wallet a new best friend?
 </p>
 
 <br><br>
