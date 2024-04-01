@@ -1,5 +1,5 @@
 <h2>
-ToKu404 | Mobile Developer
+ToKu | Mobile Developer
 </h2>
 <br/>
 
