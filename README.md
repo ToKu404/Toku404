@@ -1,6 +1,5 @@
 <h2>
 ToKu404 | Mobile Developer
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <br/>
 
 <p>
